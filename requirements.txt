@@ -1,0 +1,8 @@
+yt-dlp[default]
+pymorphy3
+pymorphy3-dicts-ru
+pillow
+imagehash
+pytesseract
+# Программа Tesseract для Windows (языки rus и eng) ставится отдельно.
+# Формулы со слайдов — по желанию: pip install pix2tex
